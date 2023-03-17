@@ -1,0 +1,566 @@
+{
+  "extractor": "resume",
+  "meta": {
+    "identifier": "THTnVHWe",
+    "file_name": "resume.pdf",
+    "ready": true,
+    "ready_dt": "2023-03-15T21:15:03.850536Z",
+    "failed": false,
+    "language": "en",
+    "pdf": "https://affinda-api-data-prod-ap1.s3.amazonaws.com/media/documents/resume_qACP94h_zqFB1PJ.pdf?AWSAccessKeyId=ASIAU4IX6YWNA5XABA3I&Signature=Xu0u8gFC0bOZyU33SisHsFqv8Zs%3D&x-amz-security-token=IQoJb3JpZ2luX2VjED0aDmFwLXNvdXRoZWFzdC0yIkYwRAIgZEiDSF4lHu1reCbIMJbxNLAA4bw8HEpD8HqGL67KiN8CICXfDU%2B586iMaRi%2FAmqqq6XRyhB4bxFuROoH5XnLRXtWKpIFCPb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQAhoMMzM1NTk0NTcxMTYyIgxsUbDp0GQV7jPJgtgq5gQrfsLPozXA58HLLPEncNFVqlpgLMxs6HdABPo5Uwlq6%2FxhQoNqV%2F9VSFb6hRum%2Fw9vxr%2BHtfAe5O4uyr7MHgE5MPHb4%2FSj%2FtQNyJ8M0p1gYMSlEbFOFFNWB1jpwmFq9vJwuB7XDs0PJLPzsGdVissejaSLaTbDgfI0TZQZsamx6bEtGmBd74eNsFLkw53wJb03bTbilj%2FM13aCewGQgsyA2WsOVT0tlcGGom0pr%2Fw%2FJJ%2FO%2BrP3BFJOTBza61ZHO4CpMuNmlv0PKfZ71LnMDd9HYBd8fz5RQC3dmfzw7Ec%2BWzNCKUaQ7YeX%2Bw3RHkjS2ZzfUsA8LZhfPTzadZHdODGPMujVV3tl0RUtUZql4MpRkjlNXuyivvJ4HDWswGykGQpI%2FfRsSyj5EvMetMLGRWrk1Muk5zslm1V7RCG4yXCzt3uVWouHscvHG0YqS5yt24Xu1Y2Ku8YSONiXYvZ3sZhsTVxuHuDoJehtUG3joanIQTQvZ5%2BHdkXLSBB1nDrDNjloPc%2Fe7Sswoo7hpcVq%2BMnKeFT662Csoex%2FTXNqAKM%2FoBdxFia9YTreYnQUMTBoKGv6r9TWIFkclrSZRPoGwQITuJHLOHyLq%2BxoobuenMrCNFV%2Ftgz000kKCxG3ZgZqlFNy2PzPZR%2Fr%2FrVWWCSkSMlHmcY5HrG5mv1abCTLmjlAjziTumR51m2nGrYIS8jaXhuvMw9hfDGbAWJ8R4h28yD%2Fn0X%2F1caKUv8Pnfh07zFVQ8DUZZ5lVnYDDEfwMxBSePsdEvL9W0KHKsw%2FPwka1%2F2CtOhzBGETX4em8wv2nSe5NLQ%2BmhKbPTDk3cigBjqbAcShNo%2Fms824enmJrLHxDVaxWB3I4%2Flqarx5ppzqqmxWfqmTsij%2FyS%2FU4hOISbcFs2Jt%2Fal2Syet2HgvhyPslhMnI30T%2BpWz%2BbybsZsLPSyVteYPlMFogyDBAfkvfi0o7kGN4UuDEFkhld0UioJzkiInRB40St%2BM%2F%2FeyKU9eeLhUUHc8nuKUr7r8EcNwaiWXD1UYTWikVUaSbCWB&Expires=1678918504",
+    "child_documents": [],
+    "pages": [
+      {
+        "id": 15093750,
+        "page_index": 0,
+        "height": 842.0,
+        "width": 595.0,
+        "rotation": 0
+      }
+    ],
+    "is_ocrd": false,
+    "collection": {
+      "identifier": "ULCdWanZ",
+      "name": "Ben7",
+      "extractor": {
+        "identifier": "resume",
+        "name": "Resume Parse",
+        "validatable": false
+      }
+    },
+    "workspace": {
+      "identifier": "PQXNEPfF",
+      "name": "Ben7"
+    },
+    "is_archived": false,
+    "confirmed_dt": "2023-03-15T21:15:03.850536Z",
+    "is_confirmed": true,
+    "is_rejected": false,
+    "created_dt": "2023-03-15T21:15:01.163056Z",
+    "file": "https://affinda-api-data-prod-ap1.s3.amazonaws.com/media/documents/resume_qACP94h.pdf?AWSAccessKeyId=ASIAU4IX6YWNA5XABA3I&Signature=CiR54uMzkk7yJ1WS6kvq8%2FR6hxc%3D&x-amz-security-token=IQoJb3JpZ2luX2VjED0aDmFwLXNvdXRoZWFzdC0yIkYwRAIgZEiDSF4lHu1reCbIMJbxNLAA4bw8HEpD8HqGL67KiN8CICXfDU%2B586iMaRi%2FAmqqq6XRyhB4bxFuROoH5XnLRXtWKpIFCPb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQAhoMMzM1NTk0NTcxMTYyIgxsUbDp0GQV7jPJgtgq5gQrfsLPozXA58HLLPEncNFVqlpgLMxs6HdABPo5Uwlq6%2FxhQoNqV%2F9VSFb6hRum%2Fw9vxr%2BHtfAe5O4uyr7MHgE5MPHb4%2FSj%2FtQNyJ8M0p1gYMSlEbFOFFNWB1jpwmFq9vJwuB7XDs0PJLPzsGdVissejaSLaTbDgfI0TZQZsamx6bEtGmBd74eNsFLkw53wJb03bTbilj%2FM13aCewGQgsyA2WsOVT0tlcGGom0pr%2Fw%2FJJ%2FO%2BrP3BFJOTBza61ZHO4CpMuNmlv0PKfZ71LnMDd9HYBd8fz5RQC3dmfzw7Ec%2BWzNCKUaQ7YeX%2Bw3RHkjS2ZzfUsA8LZhfPTzadZHdODGPMujVV3tl0RUtUZql4MpRkjlNXuyivvJ4HDWswGykGQpI%2FfRsSyj5EvMetMLGRWrk1Muk5zslm1V7RCG4yXCzt3uVWouHscvHG0YqS5yt24Xu1Y2Ku8YSONiXYvZ3sZhsTVxuHuDoJehtUG3joanIQTQvZ5%2BHdkXLSBB1nDrDNjloPc%2Fe7Sswoo7hpcVq%2BMnKeFT662Csoex%2FTXNqAKM%2FoBdxFia9YTreYnQUMTBoKGv6r9TWIFkclrSZRPoGwQITuJHLOHyLq%2BxoobuenMrCNFV%2Ftgz000kKCxG3ZgZqlFNy2PzPZR%2Fr%2FrVWWCSkSMlHmcY5HrG5mv1abCTLmjlAjziTumR51m2nGrYIS8jaXhuvMw9hfDGbAWJ8R4h28yD%2Fn0X%2F1caKUv8Pnfh07zFVQ8DUZZ5lVnYDDEfwMxBSePsdEvL9W0KHKsw%2FPwka1%2F2CtOhzBGETX4em8wv2nSe5NLQ%2BmhKbPTDk3cigBjqbAcShNo%2Fms824enmJrLHxDVaxWB3I4%2Flqarx5ppzqqmxWfqmTsij%2FyS%2FU4hOISbcFs2Jt%2Fal2Syet2HgvhyPslhMnI30T%2BpWz%2BbybsZsLPSyVteYPlMFogyDBAfkvfi0o7kGN4UuDEFkhld0UioJzkiInRB40St%2BM%2F%2FeyKU9eeLhUUHc8nuKUr7r8EcNwaiWXD1UYTWikVUaSbCWB&Expires=1678918504",
+    "tags": []
+  },
+  "error": {},
+  "data": {
+    "redactedText": "**** *** ** ******** *** ***** | ********** | **************\nEDUCATION University of Washington *** **** * *** **** Electrical Engineering, ******** ** GPA* *** Relevant coursework: Digital circuit, Signal processing, Circuit design, Controls, Interactive systems design and technology\nSKILLS Hardware/soft skills: Project management, Controls, Soldering, PCB design, Oscilloscopes, signal processing Software: Java, Python, C, AutoCAD, System Verilog, Solidworks, Fusi** **** CAD, Altium, ROS, LT Spice, Debugging\nPROFESSIONAL EXPERIENCE Electrical Engineering Intern *** **** * *** **** Jumpstart CSR, ******** ** \u00e2\u2014 using Altium and MS Office. Presented my result of the gateway's ability to receive data from ** sensors synchronously \u00e2\u2014 Actively contact manufacture such as Sierra wireless and Digi-key on the lead time and updates on components specification to address any issues th** *** arise in mass production phase \u00e2\u2014 Programmed the firmware of the system using C and Nordic SDK to enable seamless communication between sensors and the cloud. Resulting in a 20% increase in data transmission speed Project manager *** **** * ******* University of Washington, ******** ** \u00e2\u2014 Designed 3D models and concept drawings of RV interior using Revit and SketchUp for Seattle City Light \u00e2\u2014 Conducted BOM analysis and verification processes for an electric truck components consisted of solar panels, heat pump, deep cycle battery, inverter, dashboard, water heater \u00e2\u2014 Ensuring the project is completed on time and within budget by writing project roadmap while considering project risks scope creep, and detailed project log \u00e2\u2014 Supervise project developments and identified potential risks, escalating issues as required based on Gantt charts \u00e2\u2014 Conducted validation test on the power design of the electric truck. Ensuring the vehicle can run on battery for at least * hours and ** hours with the solar panel",
+    "name": {
+      "raw": "Ming Yao Li",
+      "first": "Ming",
+      "last": "Li",
+      "middle": "Yao",
+      "title": ""
+    },
+    "phone_numbers": [
+      "+13109261084"
+    ],
+    "websites": [],
+    "emails": [
+      "mingyao@uw.edu"
+    ],
+    "location": {
+      "formatted": "Seattle, WA 98105, USA",
+      "postal_code": "98105",
+      "state": "Washington",
+      "country": "United States",
+      "country_code": "US",
+      "raw_input": "Seattle, WA, 98105",
+      "city": "Seattle",
+      "latitude": 47.6614244,
+      "longitude": -122.2683743
+    },
+    "objective": "",
+    "languages": [
+      "English"
+    ],
+    "summary": "",
+    "total_years_experience": 0,
+    "education": [
+      {
+        "id": 16925562,
+        "organization": "University of Washington",
+        "accreditation": {
+          "education": "Electrical",
+          "input_str": "Electrical",
+          "match_str": ""
+        },
+        "grade": {
+          "raw": "GPA: 3.5",
+          "metric": "GPA",
+          "value": "3.5"
+        },
+        "location": {
+          "formatted": "Seattle, WA, USA",
+          "state": "Washington",
+          "country": "United States",
+          "country_code": "US",
+          "raw_input": "Seattle, WA",
+          "city": "Seattle",
+          "latitude": 47.6062095,
+          "longitude": -122.3320708
+        },
+        "dates": {
+          "completion_date": "2023-12-01",
+          "is_current": true,
+          "start_date": "2020-09-01"
+        }
+      }
+    ],
+    "profession": "Electrical Engineering Intern",
+    "work_experience": [
+      {
+        "id": 27478447,
+        "job_title": "Electrical Engineering Intern",
+        "organization": "Jumpstart CSR",
+        "location": {
+          "formatted": "Seattle, WA, USA",
+          "state": "Washington",
+          "country": "United States",
+          "country_code": "US",
+          "raw_input": "Seattle, WA",
+          "city": "Seattle",
+          "latitude": 47.6062095,
+          "longitude": -122.3320708
+        },
+        "job_description": "\u00e2\u2014 using Altium and MS Office. Presented my result of the gateway's ability to receive data from 10 sensors synchronously \u00e2\u2014 Actively contact manufacture such as Sierra wireless and Digi-key on the lead time and updates on components specification to address any issues that may arise in mass production phase \u00e2\u2014 Programmed the firmware of the system using C and Nordic SDK to enable seamless communication between sensors and the cloud. Resulting in a 20% increase in data transmission speed ",
+        "dates": {
+          "start_date": "2022-06-01",
+          "end_date": "2022-08-01",
+          "months_in_position": 2,
+          "is_current": false
+        },
+        "occupation": {
+          "job_title": "Electrical Engineering Intern",
+          "job_title_normalized": "Electrical Engineering Intern",
+          "management_level": "Low",
+          "classification": {
+            "title": "Electrical engineers",
+            "minor_group": "Engineering Professionals",
+            "sub_major_group": "SCIENCE, RESEARCH, ENGINEERING AND TECHNOLOGY PROFESSIONALS",
+            "major_group": "PROFESSIONAL OCCUPATIONS",
+            "soc_code": 2123
+          }
+        }
+      },
+      {
+        "id": 27478448,
+        "job_title": "Project manager",
+        "organization": "University of Washington",
+        "location": {
+          "formatted": "Seattle, WA, USA",
+          "state": "Washington",
+          "country": "United States",
+          "country_code": "US",
+          "raw_input": "Seattle, WA",
+          "city": "Seattle",
+          "latitude": 47.6062095,
+          "longitude": -122.3320708
+        },
+        "job_description": "\u00e2\u2014 Designed 3D models and concept drawings of RV interior using Revit and SketchUp for Seattle City Light \u00e2\u2014 Conducted BOM analysis and verification processes for an electric truck components consisted of solar panels, heat pump, deep cycle battery, inverter, dashboard, water heater \u00e2\u2014 Ensuring the project is completed on time and within budget by writing project roadmap while considering project risks scope creep, and detailed project log \u00e2\u2014 Supervise project developments and identified potential risks, escalating issues as required based on Gantt charts \u00e2\u2014 Conducted validation test on the power design of the electric truck. Ensuring the vehicle can run on battery for at least 7 hours and 15 hours with the solar panel ",
+        "dates": {
+          "start_date": "2022-12-01",
+          "end_date": "2023-03-15",
+          "months_in_position": 3,
+          "is_current": true
+        },
+        "occupation": {
+          "job_title": "Project manager",
+          "job_title_normalized": "Product/Project Manager",
+          "management_level": "Mid",
+          "classification": {
+            "title": "Sales accounts and business development managers",
+            "minor_group": "Sales, Marketing and Related Associate Professionals",
+            "sub_major_group": "BUSINESS AND PUBLIC SERVICE ASSOCIATE PROFESSIONALS",
+            "major_group": "ASSOCIATE PROFESSIONAL OCCUPATIONS",
+            "soc_code": 3556
+          }
+        }
+      }
+    ],
+    "skills": [
+      {
+        "id": 171158951,
+        "emsi_id": "KS440KZ6ZGVFN5F5VNY3",
+        "name": "Signal Processing",
+        "type": "hard_skill",
+        "sources": [
+          {
+            "section": "Skills/Interests/Languages"
+          }
+        ]
+      },
+      {
+        "id": 171158952,
+        "emsi_id": "KS125LS6N7WP4S6SFTCK",
+        "name": "Python (Programming Language)",
+        "type": "hard_skill",
+        "sources": [
+          {
+            "section": "Skills/Interests/Languages"
+          }
+        ]
+      },
+      {
+        "id": 171158953,
+        "emsi_id": "KS1200364C9C1LK3V5Q1",
+        "name": "C (Programming Language)",
+        "last_used": "2023-03-15",
+        "number_of_months": 5,
+        "type": "hard_skill",
+        "sources": [
+          {
+            "section": "Skills/Interests/Languages"
+          },
+          {
+            "section": "WorkExperience",
+            "position": 0,
+            "work_experience_id": 27478447
+          },
+          {
+            "section": "WorkExperience",
+            "position": 1,
+            "work_experience_id": 27478448
+          }
+        ]
+      },
+      {
+        "id": 171158956,
+        "emsi_id": "KS120076FGP5WGWYMP0F",
+        "name": "Java (Programming Language)",
+        "type": "hard_skill",
+        "sources": [
+          {
+            "section": "Skills/Interests/Languages"
+          }
+        ]
+      },
+      {
+        "id": 171158961,
+        "emsi_id": "KS1267F6MSPN366LX7ST",
+        "name": "Project Management",
+        "type": "hard_skill",
+        "sources": [
+          {
+            "section": "Skills/Interests/Languages"
+          }
+        ]
+      },
+      {
+        "id": 171158962,
+        "emsi_id": "KS122FM6NS52BCDZ7GWT",
+        "name": "SolidWorks (CAD)",
+        "type": "hard_skill",
+        "sources": [
+          {
+            "section": "Skills/Interests/Languages"
+          }
+        ]
+      },
+      {
+        "id": 171158963,
+        "emsi_id": "KS1203B66DJG8T72WTJ4",
+        "name": "AutoCAD",
+        "type": "hard_skill",
+        "sources": [
+          {
+            "section": "Skills/Interests/Languages"
+          }
+        ]
+      },
+      {
+        "id": 171158967,
+        "emsi_id": "KS441S270X2PHDN26DRR",
+        "name": "Verilog",
+        "type": "hard_skill",
+        "sources": [
+          {
+            "section": "Skills/Interests/Languages"
+          }
+        ]
+      },
+      {
+        "id": 171158971,
+        "emsi_id": "KS1218W78FGVPVP2KXPX",
+        "name": "Management",
+        "type": "soft_skill",
+        "sources": [
+          {
+            "section": "Skills/Interests/Languages"
+          }
+        ]
+      },
+      {
+        "id": 171158974,
+        "emsi_id": "KS440VG5Z3TQWD6ZFPSN",
+        "name": "SPICE (Simulation Tool)",
+        "type": "hard_skill",
+        "sources": [
+          {
+            "section": "Skills/Interests/Languages"
+          }
+        ]
+      },
+      {
+        "id": 171158957,
+        "emsi_id": "KS120LH6DHTBJYVLFKB3",
+        "name": "Electrical Engineering",
+        "type": "hard_skill",
+        "sources": [
+          {
+            "section": "WorkExperience"
+          }
+        ]
+      },
+      {
+        "id": 171158965,
+        "emsi_id": "KS440C572C4MZHGFZKFP",
+        "name": "Scope Creep",
+        "last_used": "2023-03-15",
+        "number_of_months": 3,
+        "type": "hard_skill",
+        "sources": [
+          {
+            "section": "WorkExperience",
+            "position": 1,
+            "work_experience_id": 27478448
+          }
+        ]
+      },
+      {
+        "id": 171158966,
+        "emsi_id": "KS1218L60PDVZX16NZT1",
+        "name": "Dashboard",
+        "last_used": "2023-03-15",
+        "number_of_months": 3,
+        "type": "hard_skill",
+        "sources": [
+          {
+            "section": "WorkExperience",
+            "position": 1,
+            "work_experience_id": 27478448
+          }
+        ]
+      },
+      {
+        "id": 171158968,
+        "emsi_id": "KS122556LMQ829GZCCRV",
+        "name": "Communications",
+        "last_used": "2022-08-01",
+        "number_of_months": 2,
+        "type": "soft_skill",
+        "sources": [
+          {
+            "section": "WorkExperience",
+            "position": 0,
+            "work_experience_id": 27478447
+          }
+        ]
+      },
+      {
+        "id": 171158969,
+        "emsi_id": "KS127SW65NSYKS9RH8PN",
+        "name": "Solar Panel",
+        "last_used": "2023-03-15",
+        "number_of_months": 3,
+        "type": "hard_skill",
+        "sources": [
+          {
+            "section": "WorkExperience",
+            "position": 1,
+            "work_experience_id": 27478448
+          }
+        ]
+      },
+      {
+        "id": 171158972,
+        "emsi_id": "KS4425C7820LCHZS7VGX",
+        "name": "Writing",
+        "last_used": "2023-03-15",
+        "number_of_months": 3,
+        "type": "soft_skill",
+        "sources": [
+          {
+            "section": "WorkExperience",
+            "position": 1,
+            "work_experience_id": 27478448
+          }
+        ]
+      },
+      {
+        "id": 171158973,
+        "emsi_id": "KS440MF5WX9FSGX1LSWM",
+        "name": "SketchUp (3D Modeling Software)",
+        "last_used": "2023-03-15",
+        "number_of_months": 3,
+        "type": "hard_skill",
+        "sources": [
+          {
+            "section": "WorkExperience",
+            "position": 1,
+            "work_experience_id": 27478448
+          }
+        ]
+      },
+      {
+        "id": 171158950,
+        "emsi_id": "KS122SG5Y0Q5YQM7V8KT",
+        "name": "Debugging",
+        "type": "hard_skill",
+        "sources": [
+          {
+            "section": "Skills/Interests/Languages"
+          }
+        ]
+      },
+      {
+        "id": 171158964,
+        "emsi_id": "ES92384CEFFE19A7B510",
+        "name": "Fusion 360 (CAD Software)",
+        "type": "hard_skill",
+        "sources": [
+          {
+            "section": "Skills/Interests/Languages"
+          }
+        ]
+      },
+      {
+        "id": 171158970,
+        "emsi_id": "KS120XM6K01BDQNVTK1Q",
+        "name": "Soldering",
+        "type": "hard_skill",
+        "sources": [
+          {
+            "section": "Skills/Interests/Languages"
+          }
+        ]
+      },
+      {
+        "id": 171158954,
+        "emsi_id": "KS122NS69YK5LB5GXG0G",
+        "name": "Data Transmissions",
+        "last_used": "2022-08-01",
+        "number_of_months": 2,
+        "type": "hard_skill",
+        "sources": [
+          {
+            "section": "WorkExperience",
+            "position": 0,
+            "work_experience_id": 27478447
+          }
+        ]
+      },
+      {
+        "id": 171158955,
+        "emsi_id": "KS126685XY3LQ05RQTQW",
+        "name": "Mass Production",
+        "last_used": "2022-08-01",
+        "number_of_months": 2,
+        "type": "hard_skill",
+        "sources": [
+          {
+            "section": "WorkExperience",
+            "position": 0,
+            "work_experience_id": 27478447
+          }
+        ]
+      },
+      {
+        "id": 171158958,
+        "emsi_id": "KS123Z864ZW0NFMTV4W3",
+        "name": "Firmware",
+        "last_used": "2022-08-01",
+        "number_of_months": 2,
+        "type": "hard_skill",
+        "sources": [
+          {
+            "section": "WorkExperience",
+            "position": 0,
+            "work_experience_id": 27478447
+          }
+        ]
+      },
+      {
+        "id": 171158959,
+        "emsi_id": "KS128G96M9GTV4HH0MBS",
+        "name": "Transmission",
+        "last_used": "2022-08-01",
+        "number_of_months": 2,
+        "type": "hard_skill",
+        "sources": [
+          {
+            "section": "WorkExperience",
+            "position": 0,
+            "work_experience_id": 27478447
+          }
+        ]
+      },
+      {
+        "id": 171158960,
+        "emsi_id": "KS1246P62Q0XG43J0B2X",
+        "name": "Gantt Charts",
+        "last_used": "2023-03-15",
+        "number_of_months": 3,
+        "type": "hard_skill",
+        "sources": [
+          {
+            "section": "WorkExperience",
+            "position": 1,
+            "work_experience_id": 27478448
+          }
+        ]
+      }
+    ],
+    "certifications": [
+      "Relevant coursework Digital circuit Signal processing Circuit design Controls Interactive systems design and technology"
+    ],
+    "publications": [],
+    "referees": [],
+    "sections": [
+      {
+        "section_type": "PersonalDetails",
+        "bbox": [
+          33.792652,
+          30.278748,
+          241.84274,
+          48.250366
+        ],
+        "page_index": 0,
+        "text": "Ming Yao Li Seattle, WA, 98105 | 3109261084 | mingyao@uw.edu"
+      },
+      {
+        "section_type": "Education",
+        "bbox": [
+          33.955772,
+          60.891052,
+          562.1197,
+          98.82037
+        ],
+        "page_index": 0,
+        "text": "EDUCATION University of Washington Sep 2020 - Dec 2023 Electrical Engineering, Seattle, WA GPA: 3.5 Relevant coursework: Digital circuit, Signal processing, Circuit design, Controls, Interactive systems design and technology"
+      },
+      {
+        "section_type": "Skills/Interests/Languages",
+        "bbox": [
+          33.792652,
+          101.52106,
+          488.58066,
+          129.29285
+        ],
+        "page_index": 0,
+        "text": "SKILLS Hardware/soft skills: Project management, Controls, Soldering, PCB design, Oscilloscopes, signal processing Software: Java, Python, C, AutoCAD, System Verilog, Solidworks, Fusion 360, CAD, Altium, ROS, LT Spice, Debugging"
+      },
+      {
+        "section_type": "WorkExperience",
+        "bbox": [
+          32.883858,
+          142.15106,
+          566.0276,
+          332.44287
+        ],
+        "page_index": 0,
+        "text": "PROFESSIONAL EXPERIENCE Electrical Engineering Intern Jun 2022 - Aug 2022 Jumpstart CSR, Seattle, WA \u00e2\u2014 using Altium and MS Office. Presented my result of the gateway's ability to receive data from 10 sensors synchronously \u00e2\u2014 Actively contact manufacture such as Sierra wireless and Digi-key on the lead time and updates on components specification to address any issues that may arise in mass production phase \u00e2\u2014 Programmed the firmware of the system using C and Nordic SDK to enable seamless communication between sensors and the cloud. Resulting in a 20% increase in data transmission speed Project manager Dec 2022 - Present University of Washington, Seattle, WA \u00e2\u2014 Designed 3D models and concept drawings of RV interior using Revit and SketchUp for Seattle City Light \u00e2\u2014 Conducted BOM analysis and verification processes for an electric truck components consisted of solar panels, heat pump, deep cycle battery, inverter, dashboard, water heater \u00e2\u2014 Ensuring the project is completed on time and within budget by writing project roadmap while considering project risks scope creep, and detailed project log \u00e2\u2014 Supervise project developments and identified potential risks, escalating issues as required based on Gantt charts \u00e2\u2014 Conducted validation test on the power design of the electric truck. Ensuring the vehicle can run on battery for at least 7 hours and 15 hours with the solar panel"
+      }
+    ],
+    "is_resume_probability": 99,
+    "raw_text": "Ming Yao Li Seattle, WA, 98105 | 3109261084 | mingyao@uw.edu\nEDUCATION University of Washington Sep 2020 - Dec 2023 Electrical Engineering, Seattle, WA GPA: 3.5 Relevant coursework: Digital circuit, Signal processing, Circuit design, Controls, Interactive systems design and technology\nSKILLS Hardware/soft skills: Project management, Controls, Soldering, PCB design, Oscilloscopes, signal processing Software: Java, Python, C, AutoCAD, System Verilog, Solidworks, Fusion 360, CAD, Altium, ROS, LT Spice, Debugging\nPROFESSIONAL EXPERIENCE Electrical Engineering Intern Jun 2022 - Aug 2022 Jumpstart CSR, Seattle, WA \u00e2\u2014 using Altium and MS Office. Presented my result of the gateway's ability to receive data from 10 sensors synchronously \u00e2\u2014 Actively contact manufacture such as Sierra wireless and Digi-key on the lead time and updates on components specification to address any issues that may arise in mass production phase \u00e2\u2014 Programmed the firmware of the system using C and Nordic SDK to enable seamless communication between sensors and the cloud. Resulting in a 20% increase in data transmission speed Project manager Dec 2022 - Present University of Washington, Seattle, WA \u00e2\u2014 Designed 3D models and concept drawings of RV interior using Revit and SketchUp for Seattle City Light \u00e2\u2014 Conducted BOM analysis and verification processes for an electric truck components consisted of solar panels, heat pump, deep cycle battery, inverter, dashboard, water heater \u00e2\u2014 Ensuring the project is completed on time and within budget by writing project roadmap while considering project risks scope creep, and detailed project log \u00e2\u2014 Supervise project developments and identified potential risks, escalating issues as required based on Gantt charts \u00e2\u2014 Conducted validation test on the power design of the electric truck. Ensuring the vehicle can run on battery for at least 7 hours and 15 hours with the solar panel"
+  }
+}
