@@ -1,3 +1,0 @@
-openai_key = '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'
-rapid= '258c9811e2mshc8310317d4a8d29p18ab1cjsn2cae90fe7a41'
-token = "b82eeb019bac163b86457d608025c127f41ae115"
